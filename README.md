@@ -30,9 +30,11 @@
 ###
 
 <h3 align="left">❤ Мой профиль на codewars:</h3>
-<div align="center">
-  [![Codewars](https://www.codewars.com/users/Programine/badges/large)](https://www.codewars.com/users/Programine)
-</div>
+<p align="center">
+  <a href="https://www.codewars.com/users/Programine">
+    <img src="https://www.codewars.com/users/Programine/badges/large" alt="Codewars Badge">
+  </a>
+</p>
 
 <h3 align="left">🛠 Технологии:</h3>
 
