@@ -25,7 +25,7 @@
 ###
 
 <h3 align="left">❤  Мой профиль на codewars:</h3>
-<p align="center">
+<p align="left">
   <a href="https://www.codewars.com/users/Programine">
     <img src="https://www.codewars.com/users/Programine/badges/large" alt="Codewars Badge">
   </a>
@@ -35,7 +35,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -53,7 +53,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=shampoony&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
