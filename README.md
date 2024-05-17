@@ -2,8 +2,9 @@
 
 
 <div align="center">
-  <img src="https://github.com/Shampoony/Shampoony/assets/170034744/a4dc97dd-81c4-405d-9ec2-4bc6c3b8432c" alt="rainly">
+  <img src="https://github.com/Shampoony/Shampoony/assets/170034744/b2e42881-b16a-411e-bf61-fc22814f537a" alt="rainly">
 </div>
+
 
 
 
