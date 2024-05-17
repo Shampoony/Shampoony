@@ -1,7 +1,10 @@
 <br clear="both">
 
 
-![sigma](https://github.com/Shampoony/Shampoony/assets/170034744/c38e4c8c-33cd-432f-8cb8-f7c79827c866)
+<div align="center">
+  <img src="https://github.com/Shampoony/Shampoony/assets/170034744/a4dc97dd-81c4-405d-9ec2-4bc6c3b8432c" alt="rainly">
+</div>
+
 
 
 <h1 align="center">Привет👋 Я Артур!</h1>
