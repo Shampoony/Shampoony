@@ -1,9 +1,9 @@
 <br clear="both">
 
-<!---<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif"/>
-</div> -->
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/9zExs2Q2h1EHfE4P6G" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/vaporwave-synthwave-retro-aesthetic-9zExs2Q2h1EHfE4P6G">via GIPHY</a></p>
+<div align="center">
+  <img src="https://giphy.com/embed/9zExs2Q2h1EHfE4P6G"/>
+</div> 
+
 
 <h1 align="center">Привет👋 Я Артур!</h1>
 
