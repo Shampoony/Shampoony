@@ -1,13 +1,10 @@
 <br clear="both">
 
-<div align="center">
-  <img src="https://giphy.com/embed/9zExs2Q2h1EHfE4P6G"/>
-</div> 
+
+![sigma](https://github.com/Shampoony/Shampoony/assets/170034744/c38e4c8c-33cd-432f-8cb8-f7c79827c866)
 
 
 <h1 align="center">Привет👋 Я Артур!</h1>
-
-
 
 <div align="center">
   <a href="https://t.me/Cheebupelka" target="_blank">
