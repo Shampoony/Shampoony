@@ -26,8 +26,8 @@
 
 <h3 align="left">❤  Мой профиль на codewars:</h3>
 <p align="left">
-  <a href="https://www.codewars.com/users/Programine">
-    <img src="https://www.codewars.com/users/Programine/badges/large" alt="Codewars Badge">
+  <a href="https://www.codewars.com/users/Shampoony">
+    <img src="https://www.codewars.com/users/Shampoony/badges/large" alt="Codewars Badge">
   </a>
 </p>
 
